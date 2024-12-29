@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>大隐桃源</title>
+  <title>大隐桃源——文学·自然·理性·道德</title>
   
-  
+  <subtitle>文学·自然·理性·道德</subtitle>
   <link href="https://zensharing.github.io/atom.xml" rel="self"/>
   
   <link href="https://zensharing.github.io/"/>
